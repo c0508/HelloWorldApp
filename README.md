@@ -57,7 +57,7 @@ HelloWorldApp/
    ```
 
 4. **Open your browser:**
-   - Navigate to `https://localhost:5001` or `http://localhost:5000`
+   - Navigate to `http://localhost:5080`
    - The exact URL will be shown in the terminal
 
 ## Key Files Explained
@@ -91,4 +91,5 @@ After working with this project, you should understand:
 
 - [ASP.NET Core Documentation](https://learn.microsoft.com/aspnet/core)
 - [MVC Pattern Overview](https://learn.microsoft.com/aspnet/core/mvc/overview)
+
 
